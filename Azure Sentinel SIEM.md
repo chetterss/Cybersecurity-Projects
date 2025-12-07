@@ -1,5 +1,5 @@
 ## Introduction
-Create and VM and SIEM with microsoft Azure to analyze attack traffic. Create a vulnerable Honey pot to understand common attack vertors.
+The purpose of this project was to design, deploy, and monitor a fully vulnerable honeypot environment in Microsoft Azure in order to observe real-world cyberattacks in action. By intentionally exposing a virtual machine to the public internet with minimal security controls, I was able to collect authentic attack data, analyze adversary behavior, and visualize global threat activity using Azure’s security tools. This hands-on lab demonstrates end-to-end configuration of a cloud-based honeypot, integration with Microsoft Sentinel, real-time log ingestion, and geographic mapping of malicious activity. The goal was not defense, but visibility—building a controlled environment to study attacker techniques and better understand how threat actors discover and target exposed cloud resources.
 
 ## Project Details
 
