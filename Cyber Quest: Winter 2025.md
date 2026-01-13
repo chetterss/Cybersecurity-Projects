@@ -1,6 +1,6 @@
 # Cyber Quest Competition: Winter 2025
 
-Cyber Quest 2025 is a CTF style competition sponsored by Cyber Quest and Counter Hack Challenges. Within this competition you are required to solve CTF and analysis style questions to compete again other students.
+Cyber Quest 2025 is a CTF style competition sponsored by Cyber Quest and Counter Hack Challenges. Within this competition you are required to solve CTF and analysis style questions while competing against other students.
 
 Below are some of the challenges faced.
 
